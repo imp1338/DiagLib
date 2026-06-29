@@ -80,6 +80,19 @@ The `example/` folder contains a full test suite that demonstrates all features.
 | `DiagLib_GetPerformanceMetrics()` | Get current memory/handle usage. |
 | `DiagLib_GenerateCrashDump(path)` | Write a minidump manually. |
 
+## 📊 How Does DiagLib Compare?
+
+| Feature | DiagLib | CrashCatch | Breakpad | ErrLib |
+|---------|---------|------------|----------|--------|
+| **Source File & Line Number** | ✅ Full | ❌ None | ⚠️ Limited | ✅ Full |
+| **Full Register Dump** | ✅ All Regs | ❌ None | ❌ None | ⚠️ Basic |
+| **Function Name + Offset** | ✅ Yes | ⚠️ Maybe | ✅ Yes | ✅ Yes |
+| **Vectored Exception Handler (VEH)** | ✅ First Chance | ❌ No | ❌ No | ✅ Yes |
+| **Performance Monitoring** | ✅ Built-in | ❌ No | ❌ No | ❌ No |
+| **Intelligent Log Buffering** | ✅ On Crash | ❌ No | ❌ No | ❌ No |
+| **Single File Library** | ✅ Yes | ✅ Yes | ❌ No | ❌ No |
+| **Cross-Platform** | ❌ Windows | ✅ Yes | ✅ Yes | ❌ Windows |
+
 ## Images
 
 <img width="870" height="822" alt="image" src="https://github.com/user-attachments/assets/088db817-2d53-4979-ba96-12d01b52fbc9" />
