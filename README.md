@@ -79,3 +79,12 @@ The `example/` folder contains a full test suite that demonstrates all features.
 | `DiagLib_RegisterExceptionCallback(callback, types, userData)` | Handle crashes. |
 | `DiagLib_GetPerformanceMetrics()` | Get current memory/handle usage. |
 | `DiagLib_GenerateCrashDump(path)` | Write a minidump manually. |
+
+## Images
+
+<img width="870" height="822" alt="image" src="https://github.com/user-attachments/assets/088db817-2d53-4979-ba96-12d01b52fbc9" />
+<img width="892" height="762" alt="image" src="https://github.com/user-attachments/assets/a67435d0-7fed-4902-b029-a4c861c79a09" />
+<img width="928" height="744" alt="image" src="https://github.com/user-attachments/assets/7b722d94-c412-4bef-888b-670e1aacf692" />
+
+
+
