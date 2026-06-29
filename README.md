@@ -83,8 +83,9 @@ The `example/` folder contains a full test suite that demonstrates all features.
 ## Images
 
 <img width="870" height="822" alt="image" src="https://github.com/user-attachments/assets/088db817-2d53-4979-ba96-12d01b52fbc9" />
+^- Image Shows Access Violation Crash, with line as seen here : <img width="696" height="37" alt="image" src="https://github.com/user-attachments/assets/9c41da84-9e21-4595-9c04-57368cacbbe6" />
+-------------------------------------------------------------------------------
 <img width="892" height="762" alt="image" src="https://github.com/user-attachments/assets/a67435d0-7fed-4902-b029-a4c861c79a09" />
 <img width="928" height="744" alt="image" src="https://github.com/user-attachments/assets/7b722d94-c412-4bef-888b-670e1aacf692" />
-
 
 
